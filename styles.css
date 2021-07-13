@@ -162,6 +162,10 @@ color: #ef8172;
 #title{
   text-align: center;
 }
+
+#testimonials {
+font-size: 400;
+}
   .title-image {
     position: static;
     transform: rotate(0);
